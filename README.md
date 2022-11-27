@@ -4,7 +4,7 @@
 - 📫 How to reach me : 
      Email: alsalamahalya@gmail.com <br>
      LinkedIn: http://linkedin.com/in/alya-alsalamah-1b6269212 <br>
-     Twitter: @AlyaAlsalamah...
+     Twitter: @AlyaAlsalamah
 
 <!---
 AlyaAlsalamah/AlyaAlsalamah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
