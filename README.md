@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Alya Alsalamah
 - 👀 I’m interested in Artificial Intelligence and Web development ...
-- 🌱 I’m currently learning Web development ...
 - 📫 How to reach me :<br> 
      Email: alsalamahalya@gmail.com <br>
      LinkedIn: http://linkedin.com/in/alya-alsalamah-1b6269212 <br>
